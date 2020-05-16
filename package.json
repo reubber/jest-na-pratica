@@ -1,0 +1,22 @@
+{
+  "name": "jest-na-pratica",
+  "version": "1.0.0",
+  "description": "Conceitos básicos de testes de software (TDD, BDD, assertions, code coverage, etc);",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reubber/jest-na-pratica.git"
+  },
+  "author": "Reubber de Sousa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reubber/jest-na-pratica/issues"
+  },
+  "homepage": "https://github.com/reubber/jest-na-pratica#readme",
+  "devDependencies": {
+    "jest-cli": "^15.1.1"
+  }
+}
